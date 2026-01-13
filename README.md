@@ -1,4 +1,4 @@
-# MTK Fastboot Autobooter for macOS, Linux & Windows ![GitHub Downloads (latest release)](https://img.shields.io/github/downloads/JMTDI/tt9/latest/total)
+# MTK Fastboot Autobooter for macOS, Linux & Windows ![GitHub Downloads (latest release)](https://img.shields.io/github/downloads/JMTDI/MTK_fastboot_autobooter/latest/total)
 
 This is a **user-friendly, one-file solution** to help you trigger fastboot/boot mode on many MTK (MediaTek) phones—now available for **macOS**, **Linux**, and **Windows**.
 
